@@ -11,7 +11,7 @@ title:            Hyde Sass
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Tweaked by <a href="https://twitter.com/benkalsky" target="_blank">@benkalsky</a>.'
 url:              http://benkalsky.net/hyde-sass
-baseurl:          /
+baseurl:          ''
 
 sass:
   style: :expanded
