@@ -17,8 +17,9 @@ sass:
   style: :expanded
 
 author:
-  name:           'Ben Kalsky'
+  name:           Ben Kalsky
   url:            https://twitter.com/benkalsky
+  email:          benkalsky@gmail.com
 
 paginate:         5
 
