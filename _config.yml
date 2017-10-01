@@ -29,6 +29,6 @@ version:          2.1.1
 github:
   repo:           https://github.com/benkalsky/hyde-sass
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
