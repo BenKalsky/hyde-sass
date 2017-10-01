@@ -117,4 +117,4 @@ Open sourced under the [MIT license](LICENSE.md).
 
 <3
 
-[![Analytics](https://ga-beacon.appspot.com/UA-92303047-5/hyde-sass/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-92303047-5/hyde-sass/readme?pixel)](https://github.com/igrigorik/ga-beacon)
